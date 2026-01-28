@@ -2,7 +2,7 @@
 
 Un boilerplate de TypeScript que implementa Clean Architecture y principios SOLID. Pensado para proyectos backend que van a crecer y necesitan mantenerse ordenados.
 
-[![CI](https://github.com/yourusername/typescript-clean-architecture-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/typescript-clean-architecture-boilerplate/actions/workflows/ci.yml)
+[![CI](https://github.com/sebavidal10/typescript-clean-architecture-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/sebavidal10/typescript-clean-architecture-boilerplate/actions/workflows/ci.yml)
 
 ## La idea
 
